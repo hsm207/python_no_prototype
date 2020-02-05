@@ -1,7 +1,7 @@
 # Introduction
 
 This repository contains code to reproduce the results described in
-my Medium blog post titled "How Practical Is Python For Prototyping Data Science Projects At Scale?"
+my Medium blog post titled ["How Practical Is Python For Prototyping Data Science Projects At Scale?"](https://medium.com/towards-artificial-intelligence/how-practical-is-python-for-prototyping-data-science-projects-at-scale-88d345fa849d)
 
 # Requirements
 * Docker 
